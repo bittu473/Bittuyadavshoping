@@ -1,0 +1,6 @@
+{
+  "name": "BITTU YADAV Shop",
+  "description": "BITTU YADAV Shop: Premium Tattoo & PMU supplies. High-quality inks, needles, machines & accessories for medical and aesthetic professionals. Shop now for Top Brands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
